@@ -1,7 +1,7 @@
 {
   "exhibid":[
        {
-        "idExhib":0,
+        "id":0,
       "name": "Я вернулся в мой город…", 
       "information": 
          {
@@ -11,7 +11,7 @@
          }
        },
        {
-      "idExhib":1,
+      "id":1,
       "name": "Айвазовский и маринисты ", 
       "information": 
          {
@@ -21,7 +21,7 @@
          }
        },   
        {
-      "idExhib":2,
+      "id":2,
       "name": "Территория земных надежд ", 
       "information": 
          {
